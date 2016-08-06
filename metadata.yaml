@@ -1,0 +1,29 @@
+_repo: Keeping-up-with-Lizzie_11503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Connecticut -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Keeping up with Lizzie
+url: http://www.gutenberg.org/ebooks/11503
